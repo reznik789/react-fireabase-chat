@@ -1,0 +1,1 @@
+Chat app with react typescript and firebase
